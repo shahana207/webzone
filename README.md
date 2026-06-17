@@ -1,1 +1,1 @@
-# webzonezs
+# webzonez
